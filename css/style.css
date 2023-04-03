@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lora:wght@400;500;600&family=Oswald:wght@200;300;400;500&family=Poppins:wght@200;300;400;500;600&family=Roboto:wght@100;300;400;500&family=Staatliches&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn-brown.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/bulle.css");
+body{
+	font-family: 'lora', serif;
+	font-size: 18px;
+	margin: 0;
+	background-color: #f4e2d40d;
+}
+h1,h2{
+	font-family: 'Oswald',sans-serif;
+	font-weight: 300;
+}
+.orange{
+	color: #953208;
+	padding-left: 50px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	font-size: 35px;
+	text-align: center;
+}
+
+.list-inline  {
+    list-style: none ;
+    padding-left: 0px;
+    text-align: center;
+
+}
+.list-inline li {
+    display: inline;
+    padding: 10px;
+    color: blue;
+}
+
+
+
+a{
+	text-decoration: none;
+	font-family: 'roboto', serif;
+}
+
+p{
+	font-family: 'lora', serif;
+}

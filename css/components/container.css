@@ -1,0 +1,29 @@
+.container{
+	width: 700px;
+	margin: 80px auto ;
+  font-family:'Roboto', sans-serif;,
+  padding-left: 29px;
+}
+
+
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will bes read */
+  	.container {
+    	width: 700px;
+    
+    }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  	.container {
+   		 width: 500px;
+    }
+}
+
+@media (max-width: 640px) {
+  /* For a screen < 540px, this */
+  	.container {
+    	width: 300px;
+    }
+}

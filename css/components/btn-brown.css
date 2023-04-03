@@ -1,0 +1,15 @@
+.btn-brown {
+	background-color: #7e4102e8;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+.btn-brown:hover {
+	background-color: #cd6b07a3;;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 5px;
+	font-weight: bold;
+}
